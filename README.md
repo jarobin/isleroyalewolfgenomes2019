@@ -1,6 +1,6 @@
 # Genotyping pipeline for short read Illumina data generated from whole genome sequencing
 
-Scripts for processing raw reads to generate a set of high quality genotypes, as in "Genomic signatures of extensive inbreeding in Isle Royale wolves, a population on the threshold of extinction" by Robinson et al. (2019).
+Scripts for processing raw reads to generate a set of high quality genotypes, as in "Genomic signatures of extensive inbreeding in Isle Royale wolves, a population on the threshold of extinction" by Robinson et al. (2019). Pipeline adapted from the Best Practices for GATK3.
 
 Required software:
 - [Picard](https://broadinstitute.github.io/picard/)
