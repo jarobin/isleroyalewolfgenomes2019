@@ -11,4 +11,6 @@ Required software:
 
 Other requirements:
 - Java 1.8
-- Reference genome assembly (fasta format) and associated index files (see https://gatkforums.broadinstitute.org/gatk/discussion/2798/howto-prepare-a-reference-for-use-with-bwa-and-gatk)
+- Perl
+- Python2
+- Reference genome assembly in fasta format and associated index files (see https://gatkforums.broadinstitute.org/gatk/discussion/2798/howto-prepare-a-reference-for-use-with-bwa-and-gatk)
