@@ -1,6 +1,7 @@
 #! /bin/bash
 
 # Step 9: Trim unused alternate alleles and add VariantType and AlleleBalance annotations
+# to INFO column
 
 # Usage: ./09_TrimAlternates_VariantAnnotator.sh [chromosome]
 
